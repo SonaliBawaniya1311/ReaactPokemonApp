@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactPokemonApp/static/css/main.944bee83.css",
-    "main.js": "/ReactPokemonApp/static/js/main.846b39de.js",
+    "main.js": "/ReactPokemonApp/static/js/main.96e95cda.js",
     "index.html": "/ReactPokemonApp/index.html",
     "main.944bee83.css.map": "/ReactPokemonApp/static/css/main.944bee83.css.map",
-    "main.846b39de.js.map": "/ReactPokemonApp/static/js/main.846b39de.js.map"
+    "main.96e95cda.js.map": "/ReactPokemonApp/static/js/main.96e95cda.js.map"
   },
   "entrypoints": [
     "static/css/main.944bee83.css",
-    "static/js/main.846b39de.js"
+    "static/js/main.96e95cda.js"
   ]
 }
